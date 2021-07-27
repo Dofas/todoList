@@ -1,0 +1,15 @@
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.showbtns{
+    display: flex;
+    margin-top: 15px;
+}
+
+.redButton{
+    background-color: red;
+}

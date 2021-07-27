@@ -1,0 +1,24 @@
+.listItem{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    margin-bottom: 10px;
+}
+
+.checkboxItem{
+    margin-right: 10px;
+}
+
+.controllers{
+    margin-top: 5px;
+}
+
+.editBtn{
+    margin-right: 5px;
+}
+
+.changedText{
+    display: block;
+    margin-bottom: 5px;
+}
+
